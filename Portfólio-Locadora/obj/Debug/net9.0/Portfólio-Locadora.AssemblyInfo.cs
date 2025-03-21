@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Portfólio-Locadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec49eeaa522274b831e00caf7a9b6495ad60e882")]
 [assembly: System.Reflection.AssemblyProductAttribute("Portfólio-Locadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Portfólio-Locadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
